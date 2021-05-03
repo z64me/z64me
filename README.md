@@ -1,4 +1,10 @@
-### Hi there 👋
+I write C programs and I do data forensics.
+
+#### Projects employing my software
+* [Star Fox 64: Survival](https://www.youtube.com/watch?v=TzqfstBv71I)
+* [The Legend of Zelda: The Missing Link](https://www.youtube.com/watch?v=n6hdlxgDixE)
+* [Ocarina of Time Online](https://www.youtube.com/watch?v=ENNwG4MARgU)
+* [F-Zero X overdump compilation](https://www.youtube.com/watch?v=L3FfqV3Xxhc)
 
 <!--
 **z64me/z64me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
