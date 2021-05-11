@@ -6,6 +6,8 @@ I write C programs and I do data forensics.
 * [Ocarina of Time Online](https://www.youtube.com/watch?v=ENNwG4MARgU)
 * [F-Zero X overdump compilation](https://www.youtube.com/watch?v=L3FfqV3Xxhc)
 
+If my software makes you money, please donate 10% of the revenue to [St. Jude Children's Research Hospital](https://www.stjude.org/donate/donate-to-st-jude.html).
+
 <!--
 **z64me/z64me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
