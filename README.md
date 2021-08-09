@@ -5,6 +5,7 @@ I write software and I do data forensics. 🔎
 * [The Legend of Zelda: The Missing Link](https://www.youtube.com/watch?v=n6hdlxgDixE)
 * [Ocarina of Time Online](https://www.youtube.com/watch?v=ENNwG4MARgU)
 * [The Lost Dungeon of Ocarina of Time](https://www.youtube.com/watch?v=L5AjSd_KyC8)
+* [Majora's Mask Reverse Engineering Project](https://github.com/zeldaret/mm)
 <!--* [F-Zero X overdump compilation](https://www.youtube.com/watch?v=L3FfqV3Xxhc)-->
 
 You can now explore the early Zelda maps I extracted from the F-Zero X overdump [in your browser](https://noclip.website/#zelview_beta/91;ShareData=AJr/YT^[Z*9P,LIUV-0cWPE-]6JDKJUX&9KUQ/_~WOs$?911S*8:\(HCUH$5t=a)! Great work, [Jasper](https://github.com/magcius)! 🎉
