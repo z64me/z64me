@@ -11,7 +11,7 @@ I write software and I do data forensics. 🔎
 
 You can now explore the early Zelda maps I extracted from the F-Zero X overdump [in your browser](https://noclip.website/#zelview_beta/91;ShareData=AJr/YT^[Z*9P,LIUV-0cWPE-]6JDKJUX&9KUQ/_~WOs$?911S*8:\(HCUH$5t=a)! Great work, [Jasper](https://github.com/magcius)! 🎉
 
-For those who earn commissions using software I have provided for free, please donate 10% of the revenue to [St. Jude Children's Research Hospital](https://www.stjude.org/donate/donate-to-st-jude.html).
+A note to those who earn commissions using software I have provided for free: please donate 10% of the revenue to [St. Jude Children's Research Hospital](https://www.stjude.org/donate/donate-to-st-jude.html).
 
 <!--
 **z64me/z64me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
